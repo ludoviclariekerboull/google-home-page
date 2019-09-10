@@ -1,0 +1,86 @@
+.x
+{
+display: flex;
+justify-content: end;
+font-family: arial,sans-serif;
+position: relative;
+top:-5px
+}
+
+
+.y
+{
+display: flex;
+justify-content: end;
+font-family: arial,sans-serif;
+position: relative;
+top:20px;
+right:160px;
+}
+
+
+
+
+.france
+{
+color:#212121;
+background-color: #f4f4f4;
+font-family: arial,sans-serif;
+position: absolute;
+bottom: 35px;
+left:0px;
+right:0;
+}
+
+
+.centre
+{
+ text-align:center;
+}
+
+
+.barrebas
+{
+    background-color: #f4f4f4;
+color: #000000;
+position: absolute;
+bottom: 0;
+left:0;
+right:0;
+text-decoration:none;
+font-size: 10pt;
+font-family: arial,sans-serif;
+font-weight:lighter;
+}
+
+
+.barrecentre
+{
+    background-color: #f4f4f4;
+color: #000000;
+position: absolute;
+bottom: 10;
+left:0;
+right:0;
+text-decoration:none;
+font-size: 10pt;
+word-spacing: 1rem;
+}
+
+.barrebasdroite
+{
+    background-color: #f4f4f4;
+text-decoration:none;
+font-family: arial,sans-serif;
+word-spacing: 1rem;
+text-align: left;
+}
+
+
+a:link{
+    text-decoration:none;
+    color:#000000;
+    font-size: 10pt;
+}
+
+
